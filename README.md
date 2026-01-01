@@ -1,7 +1,6 @@
 ## Hi, I'm Tharun 👋
 
-Full-Stack Software Engineer focused on building scalable web applications and
-Highly interested in working on secure financial systems and large-scale applications.
+Full-Stack Software Engineer focused on building scalable web applications, with a strong interest in secure financial systems and large-scale platforms.
 
 ### Stack
 Express.js · Next.js · AWS · SQL
